@@ -5,7 +5,7 @@ email: wesleyjp7l@hotmail.com
 
 
 This is full batch game.
-There are a 4 dificult levels thaca can be played.
+There are a 4 dificult levels that can be played.
 
 Modes:
 
