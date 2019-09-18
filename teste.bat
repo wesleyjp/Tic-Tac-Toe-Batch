@@ -63,7 +63,6 @@ for %%a in (
 	nivel1.bat
 	nivel2.bat
 	nivel3.bat
-	nivel4.bat
 	per.bat
 	perfil.bat
 	leiame.txt

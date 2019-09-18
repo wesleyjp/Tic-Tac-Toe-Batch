@@ -110,8 +110,8 @@ if %humano% NEQ 1 (
 	)
 
 %branco%echo Dificuldade:
-%branco%echo [FACIL] [MEDIO] [DIFICIL] [INSANO]
-%branco%echo    1       2        3        4
+%branco%echo [FACIL] [MEDIO] [DIFICIL]
+%branco%echo    1       2        3
 %branco%echo.
 %branco%set nivel=2
 %branco%set/p nivel=":"
@@ -124,9 +124,6 @@ if %humano% NEQ 1 (
 %branco%	set ir=
 %branco%	)
 %branco%if %nivel% == 3 (set msgnvl=DIFICIL 
-%branco%	set ir=
-%branco%	)
-%branco%if %nivel% == 4 (set msgnvl=INSANO  
 %branco%	set ir=
 %branco%	)
 %branco%%ir%
